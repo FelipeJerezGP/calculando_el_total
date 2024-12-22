@@ -1,0 +1,9 @@
+{
+  "nombreCarpeta": "Carpeta Padre",
+  "contenido": [
+    {
+      "nombreCarpeta": "Carpeta hija",
+      "contenido": "ReporteArtel.bi"
+    }
+  ]
+}
